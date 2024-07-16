@@ -24,6 +24,3 @@ public class PracticalWork3 {
 	}
 
 }
-
-//Izveidot metodi, kam padod skaitļu masīvu. Metode atgriež pāra skaitļu summas un
-//nepāra skaitļu summas reizinājumu.
